@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_top">#2A1B4D</color>
+    <color name="bg_bottom">#0B0A14</color>
+    <color name="input_bg">#1D1B2E</color>
+    <color name="input_stroke">#33FFFFFF</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_gray">#9B98AE</color>
+    <color name="hint_gray">#6E6B85</color>
+    <color name="accent_purple_start">#8B5CF6</color>
+    <color name="accent_purple_end">#5B21B6</color>
+    <color name="hashtag_light">#4DA3FF</color>
+    <color name="hashtag_dark">#16215C</color>
+    <color name="social_bg">#FFFFFF</color>
+</resources>
